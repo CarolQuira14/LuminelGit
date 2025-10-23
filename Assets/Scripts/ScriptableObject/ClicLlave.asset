@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156a0471817d11347bf1cb5fa02bafa4, type: 3}
+  m_Name: ClicLlave
+  m_EditorClassIdentifier: 
+  desitionText: Las sombras rodean la llave
+  opAmount: 2
+  optionTexts:
+  - Tomar la llave de todas formas
+  - "No acercarte ah\xED"
+  referenciasArray: 0100000002000000
+  quitarBotones: 0
+  cargarOtrasOpciones: 0
+  dialogos: []
+  opIndex: 0
+  gameEnded: 0
