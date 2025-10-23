@@ -94,7 +94,6 @@ Si deseas saber más sobre este proyecto o ponerte en contacto conmigo:
 
 * GitHub: [https://github.com/CarolQuira14](https://github.com/CarolQuira14)
 * Correo: *carolquira14@gmail.com*
-* Portafolio: [https://github.com/CarolQuira14](https://github.com/CarolQuira14)
 
 ---
 
